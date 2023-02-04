@@ -1,0 +1,22 @@
+.card-header {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  text-align: center;
+  background: rgb(0, 0, 0);
+  margin-top: 10px;
+}
+.card-body {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  background: linear-gradient(
+    to right top,
+    #e8e7a8,
+    #b7b484,
+    #888463,
+    #5a5743,
+    #302e26
+  );
+  font-family: "Roboto", sans-serif;
+}
